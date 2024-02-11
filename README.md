@@ -19,3 +19,6 @@ O Kira-Protótipo inclui as seguintes funcionalidades:
 2. Navegue pelas telas e elementos interativos para entender o fluxo de navegação e as funcionalidades do aplicativo.
 3. Experimente todas as interações disponíveis, como cliques em botões, preenchimento de formulários, etc.
 4. Explore todas as seções e recursos do protótipo para ter uma experiência completa.
+
+## Link:
+https://www.figma.com/proto/wpp1f9u3Tqn6eCC2XIIKsg/KIRA?page-id=0%3A1&node-id=1-2&starting-point-node-id=60%3A42&mode=design&t=IG9q8dciYZF2rZ3R-1
